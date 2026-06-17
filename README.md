@@ -1,6 +1,6 @@
 # Uso de OpenReview para la evaluación de envíos
 
-¡Hola! Muchas gracias por ser parte del Comité Científico de LatinR 2023. El trabajo que realizas es central para el éxito y continuidad de la conferencia :sparkles:.
+¡Hola! Muchas gracias por ser parte del Comité Científico de LatinR 2026. El trabajo que realizas es central para el éxito y continuidad de la conferencia :sparkles:.
 
 El siguiente documento contiene indicaciones sobre cómo realizar la evaluación de propuestas en la plataforma OpenReview y qué esperar en cada fase del proceso.
 
@@ -15,7 +15,7 @@ Ten encuenta que OpenReview enviará futuros mensajes a la dirección de correo 
 
 ## Etapa 2: Asignación de propuestas
 
-A partir del viernes 21 de julio comenzará el proceso de asignación de propuestas para revisar. OpenReview te enviará un mensaje a tu correo electrónico por cada uno de los trabajos asignados. El último correo de confirmación deberías recibirlo no más allá del lunes 24 de julio a las 14:00 UTC. 
+A partir del lunes 22 de julio comenzará el proceso de asignación de propuestas para revisar. OpenReview te enviará un mensaje a tu correo electrónico por cada uno de los trabajos asignados. 
 
 ## Etapa 3: Revisión de las propuestas
 
@@ -23,9 +23,9 @@ Existen distintas formas para acceder a las propuestas asignadas.
 
 ### Desde la página de inicio
 
-En la página de inicio de  OpenReview, puedes acceder a las propuestas desde tu lista de consolas activas o desde el menú Tasks. La diferencia es que en la consola te aparecerán todas las propuestas asignadas, mientras que en Tasks solo aquellas que tienen pendiente la revisión. 
+En la página de inicio de  OpenReview, puedes acceder a las propuestas desde tu lista de consolas activas o desde el menú Tasks. La diferencia es que en la consola te aparecerán todas las propuestas asignadas, mientras que en Tasks solo aquellas que tienen pendiente la revisión. (Las capturas son de 2023, pero la plataforma no ha cambiado en ese periodo)
 
-![En la esquina superior derecha, a la izquierda del nombre de usuario, se encuentra el menú Tasks. La lista de consolas se encuentra en el cuerpo de la página, al inicio de la columna de la izquierda. La de Latin-R se llama Latin-R 2023 Conference Reviewers](./img/inicio.png "En la esquina superior derecha, a la izquierda del nombre de usuario, se encuentra el menú Tasks. La lista de consolas se encuentra en el cuerpo de la página, al inicio de la columna de la izquierda. La de Latin-R se llama Latin-R 2023 Conference Reviewers")
+![En la esquina superior derecha, a la izquierda del nombre de usuario, se encuentra el menú Tasks. La lista de consolas se encuentra en el cuerpo de la página, al inicio de la columna de la izquierda. La de Latin-R se llama Latin-R 2026 Conference Reviewers](./img/inicio.png "En la esquina superior derecha, a la izquierda del nombre de usuario, se encuentra el menú Tasks. La lista de consolas se encuentra en el cuerpo de la página, al inicio de la columna de la izquierda. La de Latin-R se llama Latin-R 2023 Conference Reviewers")
 
 #### Tasks 
 
@@ -79,4 +79,4 @@ En este campo debes indicar el formato en que sugieres que la propuesta se prese
 En general preferimos no modificar el formato de envío de quienes seleccionaron la opción póster. Esto se debe a que ese formato es elegido usualmente porque quienes enviaron la propuesta están en búsqueda del diálogo y retroalimentación que se genera en la sesión de pósters, o bien, no les acomoda presentar frente a público. 
 
 ### ¿Dudas?
-Si tienes cualquier consulta durante el proceso de evaluación, no dudes en contactarnos a través del correo de la conferencia: latinr@gmail.com. Te agredeceríamos que incluyeses en el mensaje el número y nombre de la propuesta sobre la que tienes dudas para que nos sea más fácil responder.
+Si tienes cualquier consulta durante el proceso de evaluación, no dudes en contactarnos a través del correo de la conferencia: info@latinr.org. Te agredeceríamos que incluyeses en el mensaje el número y nombre de la propuesta sobre la que tienes dudas para que nos sea más fácil responder.
